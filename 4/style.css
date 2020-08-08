@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+.new-user{
+    width: 80%;
+    /* height: 100px; */
+    margin: 20px auto;
+    background-color: blanchedalmond;
+
+}
+.list-user{
+    width: 80%;
+    /* min-height: 150px; */
+    margin: 20px auto;
+    background-color: blanchedalmond;
+}
+.detail-user{
+    min-height: 95px;
+}
+.skill{
+    font-size: 100px;
+}

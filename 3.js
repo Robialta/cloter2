@@ -25,4 +25,4 @@ function cetak_gambar(len) {
   }
 }
 
-cetak_gambar(6);
+cetak_gambar(8);
